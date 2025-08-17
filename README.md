@@ -21,8 +21,9 @@ Resume Builder is a desktop application that allows users to create professional
 - **iTextPDF** (PDF generation)
 
 ---
-##✅Output Screenshots
+## ✅Output Screenshots
 
+![Main Form](000.png)
 ![Main Form](011.png)
 ![Personal Details Form](022.png)
 ![Work Experience & Education](033.png)

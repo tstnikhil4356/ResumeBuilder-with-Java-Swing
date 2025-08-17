@@ -23,10 +23,10 @@ Resume Builder is a desktop application that allows users to create professional
 ---
 ##✅Output Screenshots
 
-![Main Form](screenshots/011.png)
-![Personal Details Form](screenshots/022.png)
-![Work Experience & Education](screenshots/033.png)
-![Sample Generated Resume](screenshots/044.png)
+![Main Form](011.png)
+![Personal Details Form](022.png)
+![Work Experience & Education](033.png)
+![Sample Generated Resume](044.png)
 
 
 ## 🚀 How to Run
